@@ -7,6 +7,8 @@ and there are no plans to impliment a windows version soon.
 However, there might possibly be one in the future.
 ```
 
-In order to be able to run on macOS, you must run ```chmod +x /path/to/binary/``` in the terminal, and then right click and select open. 
+```How To Run```
 
-In order to be able to run on Linux (tested on Ubuntu for ARM), you must right click on the release file you downloaded, click on ```properties```, go to the ```permissions``` tab, and check the box that states ```Allow executing this file as program```.
+In order to be able to run on macOS or linux (tested on Ubuntu for ARM), you must run ```chmod +x /path/to/downloaded/release``` in the terminal.
+
+After you've done the step above, you can now do ```./path/to/downloaded/release``` in terminal.
