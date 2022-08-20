@@ -3,6 +3,10 @@ Think you know pi? Step right up to this c++ script that puts your confidence to
 
 ```
 Why are there two scripts to choose from?
------------------------------------------------
-There are two different scripts to choose from because this script includes a system() function inside. On ponix (macOS and Linux), to clear the screen, you would do 'system("clear");'. While on NT (Windows), you would do 'system("CLS");'
 ```
+There are two different scripts to choose from because this script includes a system() function inside. On ponix (macOS and Linux), to clear the screen, you would do 'system("clear");'. While on NT (Windows), you would do 'system("CLS");'
+
+```
+Which one do I choose?
+```
+If you are running Windows, download the precompiled binary that says "Windows." Otherwise, download the precompiled binary that says "Ponix."
