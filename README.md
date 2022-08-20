@@ -4,5 +4,5 @@ Think you know pi? Step right up to this c++ script that puts your confidence to
 ```
 At this time, there is no windows version, 
 and there are no plans to impliment a windows version soon. 
-Hiwever, there might possibly be one in the future.
+However, there might possibly be one in the future.
 ```
