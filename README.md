@@ -6,3 +6,5 @@ At this time, there is no windows version,
 and there are no plans to impliment a windows version soon. 
 However, there might possibly be one in the future.
 ```
+
+In order to be able to run on macOS, you must run ```chmod +x /path/to/binary/``` in the terminal, and then right click and select open. 
