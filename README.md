@@ -8,3 +8,5 @@ However, there might possibly be one in the future.
 ```
 
 In order to be able to run on macOS, you must run ```chmod +x /path/to/binary/``` in the terminal, and then right click and select open. 
+
+In order to be able to run on Linux (tested on Ubuntu for ARM), you must right click on the release file you downloaded, click on ```properties```, go to the ```permissions``` tab, and check the box that states ```Allow executing this file as program```.
